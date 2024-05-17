@@ -1,0 +1,7 @@
+package com.demo.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface Co extends JpaRepository<Course, ID>e  {
+
+}

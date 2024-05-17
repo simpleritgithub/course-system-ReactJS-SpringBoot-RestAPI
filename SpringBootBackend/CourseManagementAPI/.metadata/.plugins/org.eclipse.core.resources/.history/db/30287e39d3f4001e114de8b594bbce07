@@ -1,0 +1,11 @@
+package com.demo.service;
+
+import org.springframework.stereotype.Repository;
+
+import com.demo.dao.CourseDao;
+
+
+public interface CourseService {
+	
+
+}
